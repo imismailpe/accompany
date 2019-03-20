@@ -17,7 +17,7 @@ body{
     max-height: 350px;
 }
 .card-columns{
-	margin: 5px;
+	margin: 1rem;
 }
 
 .card-img-top{
@@ -35,11 +35,14 @@ body{
 	border: 1px solid white;
 	border-radius: 5px;
 	box-shadow: 0px 8px 11px -6px rgba(0,0,0,0.69);
-	margin: 1rem;
+	margin: auto;
 }
 .contenttext{
-	padding: 1rem;
+	padding: 1em;
+	margin: 1rem;
+	width: 95%;
 }
+
 .whitetext{
 	color: white;
 }
