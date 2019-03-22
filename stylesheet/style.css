@@ -46,9 +46,6 @@ body{
 	color: white;
 }
 .footers{
-  bottom: 0;
-  left: 0;
-  right: 0;
   padding: 1rem;
   background-color: black;
   text-align: left;
