@@ -46,6 +46,9 @@ body{
 .whitetext{
 	color: white;
 }
+.container{
+	padding:8px;
+}
 .footers{
   padding: 0.5rem;
   background-color: black;
