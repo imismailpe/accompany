@@ -40,7 +40,6 @@ body{
 .contenttext{
 	padding: 1em;
 	margin: 1rem;
-	width: 95%;
 }
 
 .whitetext{
@@ -51,7 +50,7 @@ body{
   left: 0;
   right: 0;
   padding: 1rem;
-  background-color: rgba(0,0,0,0.9);
+  background-color: black;
   text-align: left;
   color: #efefef;
 }
